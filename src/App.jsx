@@ -77,6 +77,9 @@ function App() {
             allowFullScreen
           />
         </div>
+        <p className="regular text-center mt-4 opacity-30 text-sm px-4 mt-10"> 
+          @mightbelucid on discord for problems...
+        </p>
 
       </div>
     </>
